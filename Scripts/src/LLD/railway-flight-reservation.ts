@@ -1,17 +1,21 @@
 // User Management:
 // * User registration and authentication.
 // * User profile management.
+
 // Reservation Management:
 // * Search for available trains/flights.
 // * Book tickets.
 // * Cancel reservations.
 // * View booking history.
+
 // Payment Management:
 // * Process payments for reservations.
 // * Refund management for cancellations.
+
 // Schedule Management:
 // * Manage train/flight schedules.
 // * View train/flight schedules.
+
 // Notification Management:
 // * Notify users of booking confirmations, cancellations, and schedule changes.
 
